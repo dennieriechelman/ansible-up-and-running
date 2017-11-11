@@ -1,0 +1,2 @@
+server_memory_size: '{{ some_other_value }}'
+some_other_value: 1024
